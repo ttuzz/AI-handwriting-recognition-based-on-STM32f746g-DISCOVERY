@@ -11,8 +11,7 @@ It is based on the repository:
 - More recent versions of libraries and dependencies have been used.
 - STM32CubeMX regeneration does not cause any issues.
 - **MPU (Memory Protection Unit) settings were not configured through CubeMX.**
-
-## Project Screenshots
+---
 ![Screenshot 1](assets/1.png)
 ![Screenshot 2](assets/2.png)
 ![Screenshot 3](assets/4.png)
