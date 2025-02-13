@@ -1,10 +1,10 @@
 # AI Handwriting Recognition on STM32F746G-DISCO
 
-## Overview
-This project implements AI-based handwriting recognition on the STM32F746G-DISCO board. It is based on the repository:
+This project implements AI-based handwriting recognition on the STM32F746G-DISCO board.
+It is based on the repository:
 
-- [YouTube Demonstration](https://www.youtube.com/watch?v=0QSbi8sorVI)
-- [Original GitHub Repository](https://github.com/jhang-jhe-wei/AI-handwriting-recognition-based-on-STM32f746g-DISCOVERY)
+- [Source YouTube Demonstration](https://www.youtube.com/watch?v=0QSbi8sorVI)
+- [Source GitHub Repository](https://github.com/jhang-jhe-wei/AI-handwriting-recognition-based-on-STM32f746g-DISCOVERY)
 
 ### Differences from the Original Project
 - The project is compiled using **STM32CubeIDE** instead of the original toolchain.
